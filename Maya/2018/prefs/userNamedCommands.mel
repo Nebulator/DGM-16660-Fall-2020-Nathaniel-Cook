@@ -2,3 +2,9 @@
 //
 //
 
+nameCommand
+	-annotation "PolyMergeNameCommand"
+	-sourceType "mel"
+	-command ("PolyMerge")
+	PolyMergeNameCommand;
+
